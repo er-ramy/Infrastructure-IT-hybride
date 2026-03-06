@@ -5,7 +5,7 @@
 
 Cette **Version 1.0** se concentre sur la configuration manuelle et la compréhension profonde des couches système, réseau et cryptographique.
 
-📄 **[👉 Consultez le Portfolio Technique complet avec les Preuves de Concept (PoC) en PDF ici](./Portfolio_Technique_Debian_Server.pdf)**
+📄 **[👉 Consultez le Portfolio Technique complet avec les Preuves de Concept (PoC) en PDF ici](./Portfolio%20Technique%20Infrastructure%20IT%20hypride%20Debian%20Server%20%20v1.0.pdf)**
 
 ## 🛠️ Stack Technique (V1.0)
 * **OS :** Debian Linux (Server)
